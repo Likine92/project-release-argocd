@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: myapp-argo-application-release
+  name: e-commerce-application-release
   namespace: argocd
 spec:
   project: default
